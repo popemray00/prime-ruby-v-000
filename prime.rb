@@ -1,1 +1,3 @@
-def prime?(number)
+def prime(number)
+  number.prime?
+end
