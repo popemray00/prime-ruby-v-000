@@ -1,4 +1,3 @@
-def prime?(number)
+def prime?(num)
 
-  number.prime?(3)
 end
